@@ -1,0 +1,27 @@
+{
+	"version": "1.0.0",
+	"language": "en",
+	"home": {
+		"title": "Welcome to coup!",
+		"description": "This quick and dirty deception game pits two to six players in a free-for-all fight for domination",
+		"button": {
+			"join": "Join Game",
+			"create": "Create Game"
+		}
+	},
+	"sideBar": {
+		"language": {
+			"en": "English",
+			"ar": "Arabic"
+		},
+		"game": {
+			"coup": "Coup"
+		},
+		"section": {
+			"languages": "Languages",
+			"games": "Games",
+			"about": "About",
+			"home": "Home"
+		}
+	}
+}
